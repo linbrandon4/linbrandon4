@@ -1,4 +1,4 @@
-![Abstract systems banner](./assets/profile-banner.png)
+
 
 # Brandon Lin
 
